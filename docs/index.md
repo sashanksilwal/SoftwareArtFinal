@@ -76,8 +76,8 @@ I breathe in slowly
 And count each passing breath
 ====================
 ```
-<img src="../public/PeaceImage.png" alt="drawing" width="300"/>
-<img src="../public/happenings.png" alt="drawing" width="300"/>
+<img src="https://github.com/sashanksilwal/SoftwareArtFinal/blob/main/public/PeaceImage.png" alt="drawing" width="300"/>
+<img src="https://github.com/sashanksilwal/SoftwareArtFinal/blob/main/public/happenings.png" alt="drawing" width="300"/>
 <!-- ![](../public/PeaceImage.png) -->
 
  
