@@ -30,6 +30,7 @@ body {
 /* Container needed to position the overlay. Adjust the width as needed */
 .container {
   position: relative;
+  margin-left: 5%;
   /* width: 50%;
   max-width: 300px; */
 }
