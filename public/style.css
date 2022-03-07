@@ -1,0 +1,41 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+canvas {
+  display: flex;
+  align-items: center;
+}
+
+.dove_canvas {
+  margin: auto;
+  /* margin-top: 0%; */
+  width: 50%;
+  /* border: 3px solid green; */
+}
+.white {
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ml3 {
+  font-weight: 900;
+  font-size: 3.5em;
+  color: white;
+}
+.flex-parent {
+  display: flex;
+}
+.flex-child {
+  flex: 1;
+}
+.parent {
+  /* background: mediumpurple; */
+  padding: 1rem;
+}
+.child {
+  /* border: 1px solid indigo; */
+  padding: 1rem;
+}
