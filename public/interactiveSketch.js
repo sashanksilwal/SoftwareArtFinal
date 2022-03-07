@@ -43,7 +43,7 @@ function draw() {
       let diff = abs(avg - neighbourAvg);
 
       if (diff > 20) {
-        diff = color(random(255), random(255), random(255));
+        diff = color(100, 100, 100);
       } else {
         diff = color(0);
       }
@@ -58,5 +58,5 @@ function draw() {
     }
   }
 
-  startIndex++;
+  // startIndex++;
 }
