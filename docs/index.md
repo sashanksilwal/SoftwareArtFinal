@@ -5,7 +5,7 @@ Exploring the possibility to make image using text
 
 ## Conceptual background
 
-Some more text.
+The goal of the project was to build on the ways explored in class to come up with art pieces using text. To begin the project, I obtained the most discussed topics (war, identity etc) in the r/news subreddit. From that, I searched for ways to come up with art pieces that would have a stronger effect in the audience, to convey the message of the happening in the world.
 
 ## Implementation
 
@@ -17,7 +17,7 @@ Some more text.
 
 ### Interaction
 
-- Using p5 first took the webcam video
+- Using p5.js took the webcam video input
 - Looped through each of the pixel of the input data and calculated the average of each pixel 
 - Calculated the difference between the neighbouring pixel and found the value 
 - Compared the obtained value with a threshold and pring the text grey if above the threshold (in our case 20)
